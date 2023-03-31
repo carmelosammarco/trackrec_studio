@@ -7,11 +7,12 @@ To know more about the motivation/reasoning, further plans and a video demonstra
 
 # Screenshot Android:
 
-![](forReadme/IOS.png)
+![Alternate text](forReadme/IOS.png)
+![]()
 
 # Screenshot IOS (any Iphone):
 
-![](forReadme/Android.png)
+![Alternate text](forReadme/Android.png)
 
 
 # ***Thank you to visit this page***
