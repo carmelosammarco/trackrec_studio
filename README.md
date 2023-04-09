@@ -5,12 +5,12 @@ A multitrack Recording APP made with Flutter.
 
 To know more about the motivation/reasoning, further plans and a video demonstration just click [HERE](https://sammarcocarmelo.com/2023/03/31/trackrec-studio-multitrack-recording-app-developed-in-flutter/). You will be redirected to my personal blog.
 
-# Screenshot Android:
+# Screenshot IOS (any phones):
 
 ![Alternate text](forReadme/ios.png)
 ![]()
 
-# Screenshot IOS (any Iphone):
+# Screenshot Android:
 
 ![Alternate text](forReadme/Android.png)
 
